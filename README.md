@@ -8,10 +8,7 @@ Um projeto de previsão do tempo construído com Vite e React, utilizando a API 
 
 - [Tecnologias Usadas](#tecnologias-usadas)
 - [Instalação](#instalação)
-- [Uso](#uso)
-- [Configuração da API](#configuração-da-api)
-- [Contribuição](#contribuição)
-- [Licença](#licença)
+- [Site](https://luaan-alves.github.io/projeto-previsao-tempo/)
 
 ## Tecnologias Usadas
 
