@@ -2,7 +2,7 @@
 
 # Previsão do Tempo
 
-Um projeto de previsão do tempo construído com Vite e React, utilizando a API do OpenWeatherMap para buscar dados meteorológicos. Este aplicativo permite que os usuários pesquisem a previsão do tempo para diferentes cidades.
+Um projeto de previsão do tempo construído com Vite e React, utilizando a API do OpenWeatherMap pelo método do Axios para buscar dados meteorológicos. Este aplicativo permite que os usuários pesquisem a previsão do tempo para diferentes cidades.
 
 ## Tabela de Conteúdos
 
